@@ -28,7 +28,7 @@ public class MathDriver{
        
 
         MathCalculator mathCalculator = new MathCalculator();
-
+        //we are setting name
         mathCalculator.setName(args[0]);
 
         switch(args[1]){
