@@ -1,6 +1,7 @@
 /**
  * MathDriver.java for driving MathCalculator
  * author: Jang Se Chang
+ * Using Gradle will be helpful 
  */
 package edu.handong.csee.java.hw2;
 
@@ -74,6 +75,7 @@ public class MathDriver{
                 System.out.println("Invalid command");
 
         }
+        System.out.println("I did my best");
 
     }
 
