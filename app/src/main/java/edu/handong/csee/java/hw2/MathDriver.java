@@ -75,8 +75,6 @@ public class MathDriver{
                 System.out.println("Invalid command");
 
         }
-        System.out.println("I did my best");
-
     }
 
 }
