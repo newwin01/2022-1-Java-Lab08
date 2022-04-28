@@ -1,6 +1,7 @@
 /**
  * MathDriver.java for driving MathCalculator
  * author: Jang Se Chang
+ * More information will be added
  */
 package edu.handong.csee.java.hw2.math;
 
